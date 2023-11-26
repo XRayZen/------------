@@ -1,12 +1,20 @@
 # Terraform だけだと大変なので Terragrunt を使おう
+
+## 参考
 >[TG公式文法](https://terragrunt.gruntwork.io/docs/reference/config-blocks-and-attributes/)
+
 >https://qiita.com/ssc-ksaitou/items/c3eedd46a5eb04d731cc
+
 >[Terragruntでより幸せなTerraform生活を目指す](https://zenn.dev/nameless_gyoza/articles/terragrunt-hands-on)
+
 >[TerragruntはTerraformのState格納用S3バケットを自動作成してくれる](https://dev.classmethod.jp/articles/terrugrunt-creates-s3-bucket-for-buckend-automatically/)
+
 >[Terragrunt 導入で Terraform コードを DRY](https://zenn.dev/simpleform/articles/20221111-01-terraform-with-terragrunt)
+
 >[CloudBuild で最強のTerraform & Terragrunt CI/CD環境を作る](https://mixi-developers.mixi.co.jp/strongest-terraform-terragrunt-ci-e4c350d627e6)
 
 - [Terraform だけだと大変なので Terragrunt を使おう](#terraform-だけだと大変なので-terragrunt-を使おう)
+  - [参考](#参考)
   - [概要](#概要)
   - [Terragruntのインストールと使い方](#terragruntのインストールと使い方)
   - [使い方/適用](#使い方適用)

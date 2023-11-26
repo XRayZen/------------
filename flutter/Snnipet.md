@@ -1,0 +1,179 @@
+# Flutter related snippets
+- fstful
+  - StatefulWidgetのスニペットです。これはstfulの代替となるものです
+fstless StatelessWidgetスニペットです。これは、stlessの代替となるものです。
+- fscaff
+  - Scaffold widget snippet
+- fedgall	
+  - 名前付きコンストラクタを持つ EdgeInsets ウィジェットスニペット all
+- fedgonly
+  - 名前付きコンストラクタのみを使用した EdgeInsets ウィジェットスニペット
+- ftxt
+  - Text widget snippet
+- finitlf
+  - Flutter initState lifecycle method snippet
+- fic
+  - Flutter Icon ウィジェット
+- fcont
+  - Flutter Container widget snippet
+- fcent
+  - Flutter Center widget snippet
+- frow
+  - Flutter Row widget snippet
+- fcol
+  - Flutter Column widget snippet
+- fex
+  - Expand widget snippet
+- fszbw
+  - SizedBox ウィジェットのスニペット（width 引数のみ）。
+- fszbh
+  - SizedBox ウィジェットのスニペット（height 引数のみ）。
+- fszb
+  - 幅と高さを引数に持つSizedBoxウィジェット
+- fedgsym
+  - 名前付きコンストラクタを持つ EdgeInsets ウィジェット symmetric
+- fedgsymv
+  - 垂直方向のパラメータを持つ対称的な名前付きコンストラクタを持つ EdgeInsets ウィジェット
+- fedgsymh
+  - 水平方向のパラメータを持つ対称的な名前付きコンストラクタを持つ EdgeInsets ウィジェット
+- fimpmat
+  - マテリアルパッケージのインポート文を追加
+- fstream
+  - StreamBuilderウィジェットを表示する
+- felbtn
+  - Flutter ElevatedButton スニペット
+# Dartコードスニペット
+- dvar	
+  - varを使ったDartの変数宣言
+- dfinal	
+  - Dart variable declaration using final
+- dconst
+  - Dart variable declaration using const
+- dinvar
+  - Dart Public Instance variable snippet
+- dprinvar
+  - Dart Private instance variable snippet
+- dmt
+  - Dart public method snippet
+- dprmt
+  - Dart private method snippet
+- darr
+  - Dart public arrow function snippet
+- dprarr
+  - Dart private arrow function snippet
+- dopnctor
+  - Dart optional named parameters constructor snippet
+- dlist
+  - Dart List collection snippet
+- dmap
+  - Dart Map collection snippet
+- dset
+  - Dart Set collection snippet
+- dgetarr
+  - Dart arrow function getter snippet
+- dimpas
+  - Dart import as snippet
+- dimpshow
+  -	Dart import show snippet
+- dimplazy
+  - Dart import deffered as snippet
+- dimphide
+  - Dart import hide snippet
+- dexhide
+  - Dart export hide snippet
+- dexshow
+  - Dart export show snippet
+- dconvert
+  - Dart convert lib import snippet
+- dimpmeta
+  - Add meta package import statement
+- dan
+  - Add a Dart anonymous function
+- dcla
+  - Add Dart Class snippet
+- dclae
+  - Add Dart Class snippet with extends keyword
+### Flutter Bloc pattern snippets
+- fblocprov
+  - Flutter bloc provider snippet
+# RiverPod Provider
+- `consumer`
+  - Creates the Consumer widget
+- `stlessConsumer`
+  - Creates a ConsumerStateless widget
+- `stfulConsumer`
+  - Creates a ConsumerStateful widget
+- `stlessHookConsumer`
+  - Creates a Stateless HookConsumer widget
+- `stfulHookConsumer`
+  - Creates a Stateful HookConsumer widget
+## Provider
+- `provider`
+  - Creates a simple riverod provider
+- `providerFamily`
+  - Creates a provider with the family modifier
+- `futureProvider`
+  - Creates a `FutureProvider`
+- `futureProviderFamily`	
+  - Creates a `FutureProvider` with the family modifier
+- `streamProvider`
+  - Creates a `StreamProvider`
+- `streamProviderFamily`
+  - Creates a `StreamProvider` with the family modifier
+- `changeNotifierProvider`	
+  - Creates a `ChangeNotifierProvider`
+- `changeNotifierProviderFamily`
+  - Creates a `ChangeNotifierProvider` with the family modifier
+- `stateProvider`	
+  - Creates a `StateProvider`
+- `stateProviderFamily`
+  - Creates a `StateProvider` with the family modifier
+- `stateProviderFamily`
+  - Creates a `StateProvider` with the family modifier
+- `stateNotifierProvider`
+  - Creates a StateNotifier provider
+- `stateNotifierProviderFamily`	
+  - Creates a `StateNotifierProvider` with the family modifier
+- `stateNotifier`
+  - Creates a class that extends `StateNotifier` and allows you to edit the types
+- asyncNotifierProvider
+  - Create an AsyncNotifierProvider
+- asyncNotifierProviderFamily
+  - Create an AsyncNotifierProvider with Family Modifier
+- asyncNotifier
+  - Create an AsyncNotifier class
+- asyncNotifierFamily
+  - Create an AsyncNotifier with Family Parameter
+- notifierProvider
+  - Create a NotifierProvider
+- notifierProviderFamily
+  - Create a NotifierProvider with Family Modifier
+- notifier
+  - Create a Notifier class
+- notifierFamily
+  - Create a Notifier with Family Parameter
+- listen
+  - Creates a Provider Listenable
+- riverpod
+  - Creates a simple Provider
+- riverpodKeepAlive
+  - シンプルなキープアライブプロバイダーを作成します。
+- riverpodFuture
+  - Creates a FutureProvider
+- riverpodFutureKeepAlive
+  - Creates a keep alive FutureProvider
+- `riverpodClass`
+  - Creates a class Provider
+- `riverpodClassKeepAlive`
+  - Creates a keep alive class Provider
+- `riverpodAsyncClass`
+  - Creates an async class Provider
+- `riverpodAsyncClassKeepAlive`
+  - Creates a keep alive async class Provider
+- `riverpodPart`
+  - Create a part statement for Riverpod
+
+
+
+
+
